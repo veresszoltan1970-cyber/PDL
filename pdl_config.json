@@ -1,0 +1,15 @@
+{
+  "aktualis_szezon": "2026",
+  "szezonok": [
+    {
+      "ev": "2027",
+      "nev": "PDL Bajnokság 2027",
+      "adat_url": ""
+    },
+    {
+      "ev": "2026",
+      "nev": "PDL Bajnokság 2026",
+      "adat_url": "https://raw.githubusercontent.com/veresszoltan1970-cyber/PDL/main/2026/mesterlista.json"
+    }
+  ]
+}
