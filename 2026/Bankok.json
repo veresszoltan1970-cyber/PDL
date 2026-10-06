@@ -1,0 +1,15 @@
+[
+{ "id": "otp1", "bece_nev": "OTP 1", "teljes_nev": "OTP 1" },
+{ "id": "otp2", "bece_nev": "OTP 2", "teljes_nev": "OTP 2" },
+{ "id": "mbh1", "bece_nev": "MBH 1", "teljes_nev": "MBH 1" },
+{ "id": "mbh2", "bece_nev": "MBH 2", "teljes_nev": "MBH 2" },
+{ "id": "raiff", "bece_nev": "RAFI", "teljes_nev": "RAIFFEISEN" },
+{ "id": "mnb1", "bece_nev": "MNB SK 1", "teljes_nev": "MNB SK 1" },
+{ "id": "mnb2", "bece_nev": "MNB SK 2", "teljes_nev": "MNB SK 2" },
+{ "id": "erste", "bece_nev": "ERSTE", "teljes_nev": "ERSTE" },
+{ "id": "kh", "bece_nev": "K&H", "teljes_nev": "K&H" },
+{ "id": "unic", "bece_nev": "UNICREDIT", "teljes_nev": "UNICREDIT" },
+{ "id": "cofid", "bece_nev": "COFIDIS", "teljes_nev": "COFIDIS" },
+{ "id": "garant", "bece_nev": "GARANTIQA", "teljes_nev": "GARANTIQA" },
+{ "id": "mfb", "bece_nev": "MFB", "teljes_nev": "MFB" }
+]
