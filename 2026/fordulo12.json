@@ -1,0 +1,1023 @@
+[
+  {
+    "datum": "2026.09.09",
+    "hazai_csapat": "ERSTE",
+    "vendeg_csapat": "Raiffeisen",
+    "papir_vegeredmeny": "7 : 5",
+    "helyszin": "KATAKOMBA",
+    "tipus": "alapszakasz",
+    "statisztikak": [
+      {
+        "nev": "Csík Balázs",
+        "csapat": "ERSTE",
+        "d_140": 3,
+        "d_170": 0,
+        "co_70": 0
+      },
+      {
+        "nev": "Könnyű János",
+        "csapat": "ERSTE",
+        "d_140": 1,
+        "d_170": 1,
+        "co_70": 0
+      },
+      {
+        "nev": "Lebovits Diána",
+        "csapat": "ERSTE",
+        "d_140": 0,
+        "d_170": 0,
+        "co_70": 0
+      },
+      {
+        "nev": "Pető Péter",
+        "csapat": "Raiffeisen",
+        "d_140": 0,
+        "d_170": 0,
+        "do_100": 1
+      },
+      {
+        "nev": "Szajkó Bálint",
+        "csapat": "Raiffeisen",
+        "d_140": 2,
+        "d_170": 0,
+        "co_70": 0
+      },
+      {
+        "nev": "Kovács Bella",
+        "csapat": "Raiffeisen",
+        "d_140": 0,
+        "d_170": 0,
+        "co_70": 0
+      },
+      {
+        "nev": "Kertész Krisztina",
+        "csapat": "Raiffeisen",
+        "d_140": 0,
+        "d_170": 0,
+        "co_70": 0
+      },
+      {
+        "nev": "Szabó Gergely",
+        "csapat": "Raiffeisen",
+        "d_140": 0,
+        "d_170": 0,
+        "co_70": 0
+      }
+    ],
+    "meccsek": [
+      {
+        "szam": 1,
+        "tipus": "egyeni",
+        "hazai": "Csík Balázs",
+        "vendeg": "Szajkó Bálint",
+        "eredmeny": "2:0",
+        "h_atlag": 53.7,
+        "v_atlag": 42.6
+      },
+      {
+        "szam": 2,
+        "tipus": "egyeni",
+        "hazai": "Könnyű János",
+        "vendeg": "Pető Péter",
+        "eredmeny": "0:2",
+        "h_atlag": 43.04,
+        "v_atlag": 42.34
+      },
+      {
+        "szam": 3,
+        "tipus": "egyeni",
+        "hazai": "Lebovits Diána",
+        "vendeg": "Kovács Bella",
+        "eredmeny": "0:2",
+        "h_atlag": 25.6,
+        "v_atlag": 25.1
+      },
+      {
+        "szam": 4,
+        "tipus": "paros",
+        "hazai": "Csík Balázs - Könnyű János",
+        "vendeg": "Pető Péter - Szajkó Bálint",
+        "eredmeny": "2:1",
+        "h_atlag": 0,
+        "v_atlag": 0
+      },
+      {
+        "szam": 5,
+        "tipus": "egyeni",
+        "hazai": "Könnyű János",
+        "vendeg": "Kovács Bella",
+        "eredmeny": "2:0",
+        "h_atlag": 58.94,
+        "v_atlag": 42.06
+      },
+      {
+        "szam": 6,
+        "tipus": "egyeni",
+        "hazai": "Lebovits Diána",
+        "vendeg": "Szajkó Bálint",
+        "eredmeny": "0:2",
+        "h_atlag": 22.68,
+        "v_atlag": 35.79
+      },
+      {
+        "szam": 7,
+        "tipus": "egyeni",
+        "hazai": "Csík Balázs",
+        "vendeg": "Pető Péter",
+        "eredmeny": "2:1",
+        "h_atlag": 59.5,
+        "v_atlag": 55.9
+      },
+      {
+        "szam": 8,
+        "tipus": "paros",
+        "hazai": "Könnyű János - Lebovits Diána",
+        "vendeg": "Szajkó Bálint - Kovács Bella",
+        "eredmeny": "2:1",
+        "h_atlag": 0,
+        "v_atlag": 0
+      },
+      {
+        "szam": 9,
+        "tipus": "egyeni",
+        "hazai": "Csík Balázs",
+        "vendeg": "Kovács Bella",
+        "eredmeny": "2:1",
+        "h_atlag": 45.9,
+        "v_atlag": 32.87
+      },
+      {
+        "szam": 10,
+        "tipus": "egyeni",
+        "hazai": "Lebovits Diána",
+        "vendeg": "Pető Péter",
+        "eredmeny": "0:2",
+        "h_atlag": 38.56,
+        "v_atlag": 61.35
+      },
+      {
+        "szam": 11,
+        "tipus": "egyeni",
+        "hazai": "Könnyű János",
+        "vendeg": "Szajkó Bálint",
+        "eredmeny": "2:0",
+        "h_atlag": 53.68,
+        "v_atlag": 50.67
+      },
+      {
+        "szam": 12,
+        "tipus": "paros",
+        "hazai": "Csík Balázs - Lebovits Diána",
+        "vendeg": "Pető Péter - Kertész Krisztina",
+        "eredmeny": "1:2",
+        "h_atlag": 0,
+        "v_atlag": 0
+      }
+    ]
+  },
+  {
+    "datum": "2026.09.09",
+    "hazai_csapat": "GARANTIQA",
+    "vendeg_csapat": "OTP 1",
+    "papir_vegeredmeny": "3 : 9",
+    "helyszin": "KATAKOMBA",
+    "tipus": "alapszakasz",
+    "statisztikak": [
+      {
+        "nev": "Beregi Gabriella",
+        "csapat": "GARANTIQA",
+        "d_140": 0,
+        "d_170": 0,
+        "co_70": 0
+      },
+      {
+        "nev": "Sütő Zsolt",
+        "csapat": "GARANTIQA",
+        "d_140": 0,
+        "d_170": 0,
+        "co_70": 0
+      },
+      {
+        "nev": "Kovács István",
+        "csapat": "GARANTIQA",
+        "d_140": 0,
+        "d_170": 0,
+        "co_70": 0
+      },
+      {
+        "nev": "Nagy Sándor Mátyás",
+        "csapat": "GARANTIQA",
+        "d_140": 0,
+        "d_170": 0,
+        "co_70": 0
+      },
+      {
+        "nev": "Veress Zoltán",
+        "csapat": "OTP 1",
+        "d_140": 2,
+        "d_170": 1,
+        "co_70": 0
+      },
+      {
+        "nev": "Pernyész Anikó",
+        "csapat": "OTP 1",
+        "d_140": 0,
+        "d_170": 0,
+        "co_70": 0
+      },
+      {
+        "nev": "Sipos Bálint",
+        "csapat": "OTP 1",
+        "d_140": 0,
+        "d_170": 0,
+        "co_70": 0
+      }
+    ],
+    "meccsek": [
+      {
+        "szam": 1,
+        "tipus": "egyeni",
+        "hazai": "Beregi Gabriella",
+        "vendeg": "Pernyész Anikó",
+        "eredmeny": "2:0",
+        "h_atlag": 45.4,
+        "v_atlag": 32.71
+      },
+      {
+        "szam": 2,
+        "tipus": "egyeni",
+        "hazai": "Sütő Zsolt",
+        "vendeg": "Veress Zoltán",
+        "eredmeny": "0:2",
+        "h_atlag": 47.06,
+        "v_atlag": 63.96
+      },
+      {
+        "szam": 3,
+        "tipus": "egyeni",
+        "hazai": "Kovács István",
+        "vendeg": "Sipos Bálint",
+        "eredmeny": "0:2",
+        "h_atlag": 37.35,
+        "v_atlag": 50.1
+      },
+      {
+        "szam": 4,
+        "tipus": "paros",
+        "hazai": "Beregi Gabriella - Sütő Zsolt",
+        "vendeg": "Veress Zoltán - Pernyész Anikó",
+        "eredmeny": "1:2",
+        "h_atlag": 0,
+        "v_atlag": 0
+      },
+      {
+        "szam": 5,
+        "tipus": "egyeni",
+        "hazai": "Sütő Zsolt",
+        "vendeg": "Sipos Bálint",
+        "eredmeny": "0:2",
+        "h_atlag": 34.1,
+        "v_atlag": 50.1
+      },
+      {
+        "szam": 6,
+        "tipus": "egyeni",
+        "hazai": "Kovács István",
+        "vendeg": "Pernyész Anikó",
+        "eredmeny": "2:0",
+        "h_atlag": 37.35,
+        "v_atlag": 32.71
+      },
+      {
+        "szam": 7,
+        "tipus": "egyeni",
+        "hazai": "Beregi Gabriella",
+        "vendeg": "Veress Zoltán",
+        "eredmeny": "1:2",
+        "h_atlag": 37.41,
+        "v_atlag": 52.34
+      },
+      {
+        "szam": 8,
+        "tipus": "paros",
+        "hazai": "Sütő Zsolt - Kovács István",
+        "vendeg": "Pernyész Anikó - Sipos Bálint",
+        "eredmeny": "0:2",
+        "h_atlag": 0,
+        "v_atlag": 0
+      },
+      {
+        "szam": 9,
+        "tipus": "egyeni",
+        "hazai": "Beregi Gabriella",
+        "vendeg": "Sipos Bálint",
+        "eredmeny": "2:0",
+        "h_atlag": 42.96,
+        "v_atlag": 49.33
+      },
+      {
+        "szam": 10,
+        "tipus": "egyeni",
+        "hazai": "Nagy Sándor Mátyás",
+        "vendeg": "Veress Zoltán",
+        "eredmeny": "0:2",
+        "h_atlag": 39.64,
+        "v_atlag": 66.8
+      },
+      {
+        "szam": 11,
+        "tipus": "egyeni",
+        "hazai": "Sütő Zsolt",
+        "vendeg": "Pernyész Anikó",
+        "eredmeny": "0:2",
+        "h_atlag": 40.09,
+        "v_atlag": 35.91
+      },
+      {
+        "szam": 12,
+        "tipus": "paros",
+        "hazai": "Beregi Gabriella - Nagy Sándor Mátyás",
+        "vendeg": "Veress Zoltán - Sipos Bálint",
+        "eredmeny": "0:2",
+        "h_atlag": 0,
+        "v_atlag": 0
+      }
+    ]
+  },
+  {
+    "datum": "2026.09.09",
+    "hazai_csapat": "MNB SK 1",
+    "vendeg_csapat": "Cofidis",
+    "papir_vegeredmeny": "9 : 3",
+    "helyszin": "KATAKOMBA",
+    "tipus": "alapszakasz",
+    "statisztikak": [
+      {
+        "nev": "Katona József",
+        "csapat": "MNB SK 1",
+        "d_140": 1,
+        "d_170": 0,
+        "co_70": 0
+      },
+      {
+        "nev": "Tengely Veronika",
+        "csapat": "MNB SK 1",
+        "d_140": 0,
+        "d_170": 0,
+        "co_70": 0
+      },
+      {
+        "nev": "Nágel Balázs",
+        "csapat": "MNB SK 1",
+        "d_140": 1,
+        "d_170": 0,
+        "co_70": 0
+      },
+      {
+        "nev": "Czudar Farkas",
+        "csapat": "Cofidis",
+        "d_140": 0,
+        "d_170": 0,
+        "co_70": 0
+      },
+      {
+        "nev": "Kerékgyártó József",
+        "csapat": "Cofidis",
+        "d_140": 3,
+        "d_170": 0,
+        "co_70": 0
+      },
+      {
+        "nev": "Németh Anikó",
+        "csapat": "Cofidis",
+        "d_140": 0,
+        "d_170": 0,
+        "co_70": 0
+      }
+    ],
+    "meccsek": [
+      {
+        "szam": 1,
+        "tipus": "egyeni",
+        "hazai": "Katona József",
+        "vendeg": "Kerékgyártó József",
+        "eredmeny": "2:0",
+        "h_atlag": 58.9,
+        "v_atlag": 38
+      },
+      {
+        "szam": 2,
+        "tipus": "egyeni",
+        "hazai": "Tengely Veronika",
+        "vendeg": "Czudar Farkas",
+        "eredmeny": "2:0",
+        "h_atlag": 26.7,
+        "v_atlag": 39.9
+      },
+      {
+        "szam": 3,
+        "tipus": "egyeni",
+        "hazai": "Nágel Balázs",
+        "vendeg": "Németh Anikó",
+        "eredmeny": "0:2",
+        "h_atlag": 43.4,
+        "v_atlag": 49.1
+      },
+      {
+        "szam": 4,
+        "tipus": "paros",
+        "hazai": "Katona József - Tengely Veronika",
+        "vendeg": "Czudar Farkas - Kerékgyártó József",
+        "eredmeny": "2:0",
+        "h_atlag": 0,
+        "v_atlag": 0
+      },
+      {
+        "szam": 5,
+        "tipus": "egyeni",
+        "hazai": "Tengely Veronika",
+        "vendeg": "Németh Anikó",
+        "eredmeny": "2:0",
+        "h_atlag": 46.3,
+        "v_atlag": 44.3
+      },
+      {
+        "szam": 6,
+        "tipus": "egyeni",
+        "hazai": "Nágel Balázs",
+        "vendeg": "Kerékgyártó József",
+        "eredmeny": "2:0",
+        "h_atlag": 47.7,
+        "v_atlag": 44.5
+      },
+      {
+        "szam": 7,
+        "tipus": "egyeni",
+        "hazai": "Katona József",
+        "vendeg": "Czudar Farkas",
+        "eredmeny": "2:0",
+        "h_atlag": 56.7,
+        "v_atlag": 47.8
+      },
+      {
+        "szam": 8,
+        "tipus": "paros",
+        "hazai": "Tengely Veronika - Nágel Balázs",
+        "vendeg": "Kerékgyártó József - Németh Anikó",
+        "eredmeny": "2:1",
+        "h_atlag": 0,
+        "v_atlag": 0
+      },
+      {
+        "szam": 9,
+        "tipus": "egyeni",
+        "hazai": "Katona József",
+        "vendeg": "Németh Anikó",
+        "eredmeny": "1:2",
+        "h_atlag": 37.4,
+        "v_atlag": 30
+      },
+      {
+        "szam": 10,
+        "tipus": "egyeni",
+        "hazai": "Nágel Balázs",
+        "vendeg": "Czudar Farkas",
+        "eredmeny": "2:0",
+        "h_atlag": 52.7,
+        "v_atlag": 46.5
+      },
+      {
+        "szam": 11,
+        "tipus": "egyeni",
+        "hazai": "Tengely Veronika",
+        "vendeg": "Kerékgyártó József",
+        "eredmeny": "2:1",
+        "h_atlag": 37.5,
+        "v_atlag": 45.8
+      },
+      {
+        "szam": 12,
+        "tipus": "paros",
+        "hazai": "Katona József - Nágel Balázs",
+        "vendeg": "Czudar Farkas - Németh Anikó",
+        "eredmeny": "0:2",
+        "h_atlag": 0,
+        "v_atlag": 0
+      }
+    ]
+  },
+{
+    "datum": "2026.05.06",
+    "hazai_csapat": "MBH 1",
+    "vendeg_csapat": "MFB",
+    "papir_vegeredmeny": "12 : 0",
+    "helyszin": "KATAKOMBA",
+    "tipus": "alapszakasz",
+    "statisztikak": [
+      {
+        "nev": "CSIBOR LÁSZLÓ",
+        "csapat": "MBH 1",
+        "d_140": 1,
+        "d_170": 0,
+        "co_70": 0
+      },
+      {
+        "nev": "KAMARÁS RÓBERT",
+        "csapat": "MBH 1",
+        "d_140": 0,
+        "d_170": 0,
+        "co_70": 0
+      },
+      {
+        "nev": "SZABÓ KATALIN",
+        "csapat": "MBH 1",
+        "d_140": 0,
+        "d_170": 0,
+        "co_70": 0
+      },
+      {
+        "nev": "DOLHAI ZSOLT",
+        "csapat": "MFB",
+        "d_140": 0,
+        "d_170": 0,
+        "co_70": 0
+      },
+      {
+        "nev": "NÉMETH NORBERT",
+        "csapat": "MFB",
+        "d_140": 0,
+        "d_170": 0,
+        "co_70": 0
+      },
+      {
+        "nev": "SZABÓ ORSOLYA",
+        "csapat": "MFB",
+        "d_140": 0,
+        "d_170": 0,
+        "co_70": 0
+      },
+      {
+        "nev": "ALBRECHT BALÁZS",
+        "csapat": "MFB",
+        "d_140": 0,
+        "d_170": 0,
+        "co_70": 0
+      }
+    ],
+    "meccsek": [
+      {
+        "szam": 1,
+        "tipus": "egyeni",
+        "hazai": "CSIBOR LÁSZLÓ",
+        "vendeg": "NÉMETH NORBERT",
+        "eredmeny": "2:0",
+        "h_atlag": 32,
+        "v_atlag": 26
+      },
+      {
+        "szam": 2,
+        "tipus": "egyeni",
+        "hazai": "KAMARÁS RÓBERT",
+        "vendeg": "DOLHAI ZSOLT",
+        "eredmeny": "2:0",
+        "h_atlag": 53.7,
+        "v_atlag": 37.8
+      },
+      {
+        "szam": 3,
+        "tipus": "egyeni",
+        "hazai": "SZABÓ KATALIN",
+        "vendeg": "SZABÓ ORSOLYA",
+        "eredmeny": "2:1",
+        "h_atlag": 34.72,
+        "v_atlag": 35.07
+      },
+      {
+        "szam": 4,
+        "tipus": "paros",
+        "hazai": "CSIBOR LÁSZLÓ - KAMARÁS RÓBERT",
+        "vendeg": "DOLHAI ZSOLT - NÉMETH NORBERT",
+        "eredmeny": "2:0",
+        "h_atlag": 0,
+        "v_atlag": 0
+      },
+      {
+        "szam": 5,
+        "tipus": "egyeni",
+        "hazai": "KAMARÁS RÓBERT",
+        "vendeg": "SZABÓ ORSOLYA",
+        "eredmeny": "2:0",
+        "h_atlag": 46.25,
+        "v_atlag": 36.95
+      },
+      {
+        "szam": 6,
+        "tipus": "egyeni",
+        "hazai": "SZABÓ KATALIN",
+        "vendeg": "NÉMETH NORBERT",
+        "eredmeny": "2:0",
+        "h_atlag": 39,
+        "v_atlag": 34
+      },
+      {
+        "szam": 7,
+        "tipus": "egyeni",
+        "hazai": "CSIBOR LÁSZLÓ",
+        "vendeg": "DOLHAI ZSOLT",
+        "eredmeny": "2:0",
+        "h_atlag": 34.16,
+        "v_atlag": 28.97
+      },
+      {
+        "szam": 8,
+        "tipus": "paros",
+        "hazai": "KAMARÁS RÓBERT - SZABÓ KATALIN",
+        "vendeg": "NÉMETH NORBERT - SZABÓ ORSOLYA",
+        "eredmeny": "2:0",
+        "h_atlag": 0,
+        "v_atlag": 0
+      },
+      {
+        "szam": 9,
+        "tipus": "egyeni",
+        "hazai": "CSIBOR LÁSZLÓ",
+        "vendeg": "SZABÓ ORSOLYA",
+        "eredmeny": "2:0",
+        "h_atlag": 50.95,
+        "v_atlag": 36.8
+      },
+      {
+        "szam": 10,
+        "tipus": "egyeni",
+        "hazai": "SZABÓ KATALIN",
+        "vendeg": "ALBRECHT BALÁZS",
+        "eredmeny": "2:1",
+        "h_atlag": 23.86,
+        "v_atlag": 30
+      },
+      {
+        "szam": 11,
+        "tipus": "egyeni",
+        "hazai": "KAMARÁS RÓBERT",
+        "vendeg": "NÉMETH NORBERT",
+        "eredmeny": "2:0",
+        "h_atlag": 42.34,
+        "v_atlag": 34.21
+      },
+      {
+        "szam": 12,
+        "tipus": "paros",
+        "hazai": "CSIBOR LÁSZLÓ - SZABÓ KATALIN",
+        "vendeg": "SZABÓ ORSOLYA - ALBRECHT BALÁZS",
+        "eredmeny": "2:0",
+        "h_atlag": 0,
+        "v_atlag": 0
+      }
+    ]
+  },
+{
+    "datum": "2026.09.09",
+    "hazai_csapat": "MBH 2",
+    "vendeg_csapat": "K&H",
+    "papir_vegeredmeny": "5 : 7",
+    "helyszin": "KATAKOMBA",
+    "tipus": "alapszakasz",
+    "statisztikak": [
+      {
+        "nev": "Wéber Domonkos",
+        "csapat": "MBH 2",
+        "d_140": 0,
+        "d_170": 0,
+        "co_70": 0
+      },
+      {
+        "nev": "Kissné Kovács Ildikó",
+        "csapat": "MBH 2",
+        "d_140": 1,
+        "d_170": 0,
+        "co_70": 0
+      },
+      {
+        "nev": "Szász Tamás",
+        "csapat": "MBH 2",
+        "d_140": 0,
+        "d_170": 0,
+        "co_70": 1
+      },
+{
+        "nev": "Khotricza Tamás",
+        "csapat": "MBH 2",
+        "d_140": 0,
+        "d_170": 0,
+        "co_70": 0
+      },
+      {
+        "nev": "Major Veres Kata",
+        "csapat": "K&H",
+        "d_140": 0,
+        "d_170": 0,
+        "co_70": 0
+      },
+      {
+        "nev": "Bodnár András",
+        "csapat": "K&H",
+        "d_140": 1,
+        "d_170": 0,
+        "co_70": 0
+      },
+      {
+        "nev": "Németh Levente",
+        "csapat": "K&H",
+        "d_140": 1,
+        "d_170": 0,
+        "co_70": 0
+      }
+    ],
+    "meccsek": [
+      {
+        "szam": 1,
+        "tipus": "egyeni",
+        "hazai": "Wéber Domonkos",
+        "vendeg": "Bodnár András",
+        "eredmeny": "0:2",
+        "h_atlag": 34.07,
+        "v_atlag": 33.78
+      },
+      {
+        "szam": 2,
+        "tipus": "egyeni",
+        "hazai": "Kissné Kovács Ildikó",
+        "vendeg": "Major Veres Kata",
+        "eredmeny": "2:1",
+        "h_atlag": 29.92,
+        "v_atlag": 30.33
+      },
+      {
+        "szam": 3,
+        "tipus": "egyeni",
+        "hazai": "Szász Tamás",
+        "vendeg": "Németh Levente",
+        "eredmeny": "2:0",
+        "h_atlag": 46.97,
+        "v_atlag": 44.33
+      },
+      {
+        "szam": 4,
+        "tipus": "paros",
+        "hazai": "Wéber Domonkos - Kissné Kovács Ildikó",
+        "vendeg": "Major Veres Kata - Bodnár András",
+        "eredmeny": "0:2",
+        "h_atlag": 0,
+        "v_atlag": 0
+      },
+      {
+        "szam": 5,
+        "tipus": "egyeni",
+        "hazai": "Kissné Kovács Ildikó",
+        "vendeg": "Németh Levente",
+        "eredmeny": "0:2",
+        "h_atlag": 41.05,
+        "v_atlag": 53.25
+      },
+      {
+        "szam": 6,
+        "tipus": "egyeni",
+        "hazai": "Szász Tamás",
+        "vendeg": "Bodnár András",
+        "eredmeny": "2:1",
+        "h_atlag": 55.3,
+        "v_atlag": 46.4
+      },
+      {
+        "szam": 7,
+        "tipus": "egyeni",
+        "hazai": "Wéber Domonkos",
+        "vendeg": "Major Veres Kata",
+        "eredmeny": "1:2",
+        "h_atlag": 31.49,
+        "v_atlag": 33.39
+      },
+      {
+        "szam": 8,
+        "tipus": "paros",
+        "hazai": "Kissné Kovács Ildikó - Szász Tamás",
+        "vendeg": "Bodnár András - Németh Levente",
+        "eredmeny": "1:2",
+        "h_atlag": 0,
+        "v_atlag": 0
+      },
+      {
+        "szam": 9,
+        "tipus": "egyeni",
+        "hazai": "Wéber Domonkos",
+        "vendeg": "Németh Levente",
+        "eredmeny": "0:2",
+        "h_atlag": 39.15,
+        "v_atlag": 49.28
+      },
+      {
+        "szam": 10,
+        "tipus": "egyeni",
+        "hazai": "Khotricza Tamás",
+        "vendeg": "Major Veres Kata",
+        "eredmeny": "2:0",
+        "h_atlag": 34.95,
+        "v_atlag": 26.28
+      },
+      {
+        "szam": 11,
+        "tipus": "egyeni",
+        "hazai": "Kissné Kovács Ildikó",
+        "vendeg": "Bodnár András",
+        "eredmeny": "2:0",
+        "h_atlag": 37.1,
+        "v_atlag": 43.7
+      },
+      {
+        "szam": 12,
+        "tipus": "paros",
+        "hazai": "Wéber Domonkos - Khotricza Tamás",
+        "vendeg": "Major Veres Kata - Németh Levente",
+        "eredmeny": "1:2",
+        "h_atlag": 0,
+        "v_atlag": 0
+      }
+    ]
+  },
+  {
+    "datum": "2026.09.09",
+    "hazai_csapat": "Unicredit",
+    "vendeg_csapat": "Otp 2",
+    "papir_vegeredmeny": "3 : 9",
+    "helyszin": "KATAKOMBA",
+    "tipus": "alapszakasz",
+    "statisztikak": [
+      {
+        "nev": "Kollár Ildikó",
+        "csapat": "Unicredit",
+        "d_140": 0,
+        "d_170": 0,
+        "co_70": 0
+      },
+      {
+        "nev": "Deák Csongor",
+        "csapat": "Unicredit",
+        "d_140": 0,
+        "d_170": 0,
+        "co_70": 0
+      },
+      {
+        "nev": "Tóth Viktor",
+        "csapat": "Unicredit",
+        "d_140": 0,
+        "d_170": 0,
+        "co_70": 0
+      },
+      {
+        "nev": "Horváth Zoltán",
+        "csapat": "Unicredit",
+        "d_140": 0,
+        "d_170": 0,
+        "co_70": 0
+      },
+      {
+        "nev": "Csák Márton",
+        "csapat": "Otp 2",
+        "d_140": 2,
+        "d_170": 0,
+        "co_70": 0
+      },
+      {
+        "nev": "Bárdos Boglárka",
+        "csapat": "Otp 2",
+        "d_140": 0,
+        "d_170": 0,
+        "co_70": 0
+      },
+      {
+        "nev": "Réthelyi Attila",
+        "csapat": "Otp 2",
+        "d_140": 1,
+        "d_170": 0,
+        "co_70": 0
+      },
+      {
+        "nev": "Benkő Lajos",
+        "csapat": "Otp 2",
+        "d_140": 0,
+        "d_170": 0,
+        "co_70": 0
+      }
+    ],
+    "meccsek": [
+      {
+        "szam": 1,
+        "tipus": "egyeni",
+        "hazai": "Kollár Ildikó",
+        "vendeg": "Bárdos Boglárka",
+        "eredmeny": "1:2",
+        "h_atlag": 26.2,
+        "v_atlag": 26.3
+      },
+      {
+        "szam": 2,
+        "tipus": "egyeni",
+        "hazai": "Deák Csongor",
+        "vendeg": "Csák Márton",
+        "eredmeny": "0:2",
+        "h_atlag": 55.8,
+        "v_atlag": 62.6
+      },
+      {
+        "szam": 3,
+        "tipus": "egyeni",
+        "hazai": "Tóth Viktor",
+        "vendeg": "Réthelyi Attila",
+        "eredmeny": "1:2",
+        "h_atlag": 43.2,
+        "v_atlag": 47.8
+      },
+      {
+        "szam": 4,
+        "tipus": "paros",
+        "hazai": "Kollár Ildikó - Deák Csongor",
+        "vendeg": "Csák Márton - Bárdos Boglárka",
+        "eredmeny": "1:2",
+        "h_atlag": 0,
+        "v_atlag": 0
+      },
+      {
+        "szam": 5,
+        "tipus": "egyeni",
+        "hazai": "Deák Csongor",
+        "vendeg": "Réthelyi Attila",
+        "eredmeny": "2:0",
+        "h_atlag": 36.2,
+        "v_atlag": 35.8
+      },
+      {
+        "szam": 6,
+        "tipus": "egyeni",
+        "hazai": "Horváth Zoltán",
+        "vendeg": "Bárdos Boglárka",
+        "eredmeny": "1:2",
+        "h_atlag": 37.8,
+        "v_atlag": 31.3
+      },
+      {
+        "szam": 7,
+        "tipus": "egyeni",
+        "hazai": "Kollár Ildikó",
+        "vendeg": "Csák Márton",
+        "eredmeny": "1:2",
+        "h_atlag": 33,
+        "v_atlag": 46.8
+      },
+      {
+        "szam": 8,
+        "tipus": "paros",
+        "hazai": "Deák Csongor - Horváth Zoltán",
+        "vendeg": "Bárdos Boglárka - Réthelyi Attila",
+        "eredmeny": "2:1",
+        "h_atlag": 0,
+        "v_atlag": 0
+      },
+      {
+        "szam": 9,
+        "tipus": "egyeni",
+        "hazai": "Kollár Ildikó",
+        "vendeg": "Benkő Lajos",
+        "eredmeny": "0:2",
+        "h_atlag": 31.9,
+        "v_atlag": 53.7
+      },
+      {
+        "szam": 10,
+        "tipus": "egyeni",
+        "hazai": "Horváth Zoltán",
+        "vendeg": "Csák Márton",
+        "eredmeny": "0:2",
+        "h_atlag": 44.5,
+        "v_atlag": 52.7
+      },
+      {
+        "szam": 11,
+        "tipus": "egyeni",
+        "hazai": "Deák Csongor",
+        "vendeg": "Bárdos Boglárka",
+        "eredmeny": "2:0",
+        "h_atlag": 29.2,
+        "v_atlag": 23.1
+      },
+      {
+        "szam": 12,
+        "tipus": "paros",
+        "hazai": "Kollár Ildikó - Horváth Zoltán",
+        "vendeg": "Csák Márton - Benkő Lajos",
+        "eredmeny": "0:2",
+        "h_atlag": 0,
+        "v_atlag": 0
+      }
+    ]
+  }
+]
