@@ -7,17 +7,17 @@
   {
     "tipus": "naptar",
     "leiras": "A bajnoksag teljes menetrendje es idopontjai",
-    "url": "https://gist.githubusercontent.com/veresszoltan1970-cyber/1a27217aa45d2598ccf134207e126917/raw"
+    "url": "https://raw.githubusercontent.com/veresszoltan1970-cyber/PDL/main/2026/Naptár.json"
   },
   {
     "tipus": "jatekosok",
     "leiras": "A liga osszes regisztralt jatekosa",
-    "url": "https://gist.githubusercontent.com/veresszoltan1970-cyber/a6f890f9cc4f0fb2cfc0ff23e3276209/raw"
+    "url": "https://raw.githubusercontent.com/veresszoltan1970-cyber/PDL/main/2026/Játékosok.json"
   },
   {
     "tipus": "bankok",
     "leiras": "A ligaban szereplo csapatok listaja",
-    "url": "https://gist.githubusercontent.com/veresszoltan1970-cyber/898e1548625645fb2cd4773faceae96f/raw"
+    "url": "https://raw.githubusercontent.com/veresszoltan1970-cyber/PDL/main/2026/Bankok.json"
   },
   {
     "tipus": "alapszakasz",
