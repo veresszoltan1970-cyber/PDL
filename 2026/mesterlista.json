@@ -7,95 +7,95 @@
   {
     "tipus": "naptar",
     "leiras": "A bajnoksag teljes menetrendje es idopontjai",
-    "url": "https://raw.githubusercontent.com/veresszoltan1970-cyber/PDL/main/2026/Naptár.json"
+    "url": "https://raw.githubusercontent.com/veresszoltan1970-cyber/PDL/main/2026/naptar.json"
   },
   {
     "tipus": "jatekosok",
     "leiras": "A liga osszes regisztralt jatekosa",
-    "url": "https://raw.githubusercontent.com/veresszoltan1970-cyber/PDL/main/2026/Játékosok.json"
+    "url": "https://raw.githubusercontent.com/veresszoltan1970-cyber/PDL/main/2026/jatekosok.json"
   },
   {
     "tipus": "bankok",
     "leiras": "A ligaban szereplo csapatok listaja",
-    "url": "https://raw.githubusercontent.com/veresszoltan1970-cyber/PDL/main/2026/Bankok.json"
+    "url": "https://raw.githubusercontent.com/veresszoltan1970-cyber/PDL/main/2026/bankok.json"
   },
   {
     "tipus": "alapszakasz",
     "fordulo": 1,
     "nev": "1. Fordulo",
-    "url": "https://raw.githubusercontent.com/veresszoltan1970-cyber/PDL/main/2026/fordulo1.json"
+    "url": "https://raw.githubusercontent.com/veresszoltan1970-cyber/PDL/main/2026/fordulo01.json"
   },
   {
     "tipus": "alapszakasz",
     "fordulo": 2,
     "nev": "2. Fordulo",
-    "url": "https://raw.githubusercontent.com/veresszoltan1970-cyber/PDL/main/2026/fordulo2.json"
+    "url": "https://raw.githubusercontent.com/veresszoltan1970-cyber/PDL/main/2026/fordulo02.json"
   },
   {
     "tipus": "alapszakasz",
     "fordulo": 3,
     "nev": "3. Fordulo",
-    "url": "https://raw.githubusercontent.com/veresszoltan1970-cyber/PDL/main/2026/fordulo3.json"
+    "url": "https://raw.githubusercontent.com/veresszoltan1970-cyber/PDL/main/2026/fordulo03.json"
   },
   {
     "tipus": "alapszakasz",
     "fordulo": 4,
     "nev": "4. Fordulo",
-    "url": "https://raw.githubusercontent.com/veresszoltan1970-cyber/PDL/main/2026/fordulo4.json"
+    "url": "https://raw.githubusercontent.com/veresszoltan1970-cyber/PDL/main/2026/fordulo04.json"
   },
   {
     "tipus": "alapszakasz",
     "fordulo": 5,
     "nev": "5. Fordulo",
-    "url": "https://raw.githubusercontent.com/veresszoltan1970-cyber/PDL/main/2026/fordulo5.json"
+    "url": "https://raw.githubusercontent.com/veresszoltan1970-cyber/PDL/main/2026/fordulo05.json"
   },
   {
     "tipus": "alapszakasz",
     "fordulo": 6,
     "nev": "6. Fordulo",
-    "url": "https://raw.githubusercontent.com/veresszoltan1970-cyber/PDL/main/2026/fordulo6.json"
+    "url": "https://raw.githubusercontent.com/veresszoltan1970-cyber/PDL/main/2026/fordulo06.json"
   },
   {
     "tipus": "alapszakasz",
     "fordulo": 7,
     "nev": "7. Fordulo",
-    "url": "https://raw.githubusercontent.com/veresszoltan1970-cyber/PDL/main/2026/fordulo7.json"
+    "url": "https://raw.githubusercontent.com/veresszoltan1970-cyber/PDL/main/2026/fordulo07.json"
   },
   {
     "tipus": "alapszakasz",
     "fordulo": 8,
     "nev": "8. Fordulo",
-    "url": "https://raw.githubusercontent.com/veresszoltan1970-cyber/PDL/main/2026/fordulo8.json"
+    "url": "https://raw.githubusercontent.com/veresszoltan1970-cyber/PDL/main/2026/fordulo08.json"
   },
   {
     "tipus": "alapszakasz",
     "fordulo": 9,
     "nev": "9. Fordulo",
-    "url": "https://raw.githubusercontent.com/veresszoltan1970-cyber/PDL/main/2026/fordulo9.json"
+    "url": "https://raw.githubusercontent.com/veresszoltan1970-cyber/PDL/main/2026/fordulo09.json"
   },
   {
     "tipus": "alapszakasz",
     "fordulo": 10,
     "nev": "10. Fordulo",
-    "url": "https://raw.githubusercontent.com/veresszoltan1970-cyber/PDL/main/2026/fordul10.json"
+    "url": "https://raw.githubusercontent.com/veresszoltan1970-cyber/PDL/main/2026/fordulo10.json"
   },
   {
     "tipus": "alapszakasz",
     "fordulo": 11,
     "nev": "11. Fordulo",
-    "url": "https://raw.githubusercontent.com/veresszoltan1970-cyber/PDL/main/2026/fordul11.json"
+    "url": "https://raw.githubusercontent.com/veresszoltan1970-cyber/PDL/main/2026/fordulo11.json"
   },
   {
     "tipus": "alapszakasz",
     "fordulo": 12,
     "nev": "12. Fordulo",
-    "url": "https://raw.githubusercontent.com/veresszoltan1970-cyber/PDL/main/2026/fordul12.json"
+    "url": "https://raw.githubusercontent.com/veresszoltan1970-cyber/PDL/main/2026/fordulo12.json"
   },
   {
     "tipus": "alapszakasz",
     "fordulo": 13,
     "nev": "13. Fordulo",
-    "url": "https://raw.githubusercontent.com/veresszoltan1970-cyber/PDL/main/2026/fordul13.json"
+    "url": "https://raw.githubusercontent.com/veresszoltan1970-cyber/PDL/main/2026/fordulo13.json"
   },
   {
     "tipus": "rajatszas_felso",
