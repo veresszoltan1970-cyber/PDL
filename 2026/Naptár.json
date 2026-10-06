@@ -1,0 +1,261 @@
+[
+  {
+    "nev": "1. Forduló",
+    "datum": "2026-01-28",
+    "piheno": "MFB Bank",
+    "meccsek": [
+      "OTP Bank 1 vs OTP Bank 2",
+      "MBH Bank 1 vs MBH Bank 2",
+      "MNB SK 1 vs MNB SK 2",
+      "GARANTIQA vs Magyar Cofidis",
+      "Unicredit Se vs Erste Bank",
+      "K&H Bank vs RIDC-Raiffeisen"
+    ]
+  },
+  {
+    "nev": "2. Forduló",
+    "datum": "2026-02-11",
+    "piheno": "OTP Bank 2",
+    "meccsek": [
+      "Magyar Cofidis vs MFB Bank",
+      "MBH Bank 2 vs OTP Bank 1",
+      "GARANTIQA vs Erste Bank",
+      "MNB SK 2 vs MBH Bank 1",
+      "RIDC-Raiffeisen vs Unicredit Se",
+      "K&H Bank vs MNB SK 1"
+    ]
+  },
+  {
+    "nev": "3. Forduló",
+    "datum": "2026-02-25",
+    "piheno": "K&H Bank",
+    "meccsek": [
+      "RIDC-Raiffeisen vs MNB SK 1",
+      "Unicredit Se vs MNB SK 2",
+      "MBH Bank 1 vs Erste Bank",
+      "MBH Bank 2 vs GARANTIQA",
+      "Magyar Cofidis vs OTP Bank 1",
+      "OTP Bank 2 vs MFB Bank"
+    ]
+  },
+  {
+    "nev": "4. Forduló",
+    "datum": "2026-03-11",
+    "piheno": "MNB SK 1",
+    "meccsek": [
+      "Unicredit Se vs K&H Bank",
+      "MBH Bank 1 vs RIDC-Raiffeisen",
+      "MNB SK 2 vs GARANTIQA",
+      "Erste Bank vs OTP Bank 1",
+      "MFB Bank vs MBH Bank 2",
+      "OTP Bank 2 vs Magyar Cofidis"
+    ]
+  },
+  {
+    "nev": "5. Forduló",
+    "datum": "2026-03-25",
+    "piheno": "Magyar Cofidis",
+    "meccsek": [
+      "MFB Bank vs Erste Bank",
+      "OTP Bank 1 vs MNB SK 2",
+      "GARANTIQA vs RIDC-Raiffeisen",
+      "K&H Bank vs MBH Bank 1",
+      "MNB SK 1 vs Unicredit Se",
+      "MBH Bank 2 vs OTP Bank 2"
+    ]
+  },
+  {
+    "nev": "6. Forduló",
+    "datum": "2026-04-08",
+    "piheno": "Unicredit Se",
+    "meccsek": [
+      "MNB SK 1 vs MBH Bank 1",
+      "GARANTIQA vs K&H Bank",
+      "RIDC-Raiffeisen vs OTP Bank 1",
+      "MNB SK 2 vs MFB Bank",
+      "Erste Bank vs OTP Bank 2",
+      "Magyar Cofidis vs MBH Bank 2"
+    ]
+  },
+  {
+    "nev": "7. Forduló",
+    "datum": "2026-04-22",
+    "piheno": "MBH Bank 2",
+    "meccsek": [
+      "MFB Bank vs RIDC-Raiffeisen",
+      "OTP Bank 1 vs K&H Bank",
+      "GARANTIQA vs MNB SK 1",
+      "MBH Bank 1 vs Unicredit Se",
+      "Erste Bank vs Magyar Cofidis",
+      "OTP Bank 2 vs MNB SK 2"
+    ]
+  },
+  {
+    "nev": "8. Forduló",
+    "datum": "2026-05-06",
+    "piheno": "MBH Bank 1",
+    "meccsek": [
+      "Unicredit Se vs GARANTIQA",
+      "OTP Bank 1 vs MNB SK 1",
+      "K&H Bank vs MFB Bank",
+      "RIDC-Raiffeisen vs OTP Bank 2",
+      "MNB SK 2 vs Magyar Cofidis",
+      "MBH Bank 2 vs Erste Bank"
+    ]
+  },
+  {
+    "nev": "9. Forduló",
+    "datum": "2026-05-20",
+    "piheno": "Erste Bank",
+    "meccsek": [
+      "MFB Bank vs MNB SK 1",
+      "OTP Bank 1 vs Unicredit Se",
+      "MBH Bank 1 vs GARANTIQA",
+      "MNB SK 2 vs MBH Bank 2",
+      "Magyar Cofidis vs RIDC-Raiffeisen",
+      "OTP Bank 2 vs K&H Bank"
+    ]
+  },
+  {
+    "nev": "10. Forduló",
+    "datum": "2026-06-03",
+    "piheno": "GARANTIQA",
+    "meccsek": [
+      "Unicredit Se vs MFB Bank",
+      "MNB SK 1 vs OTP Bank 2",
+      "K&H Bank vs Magyar Cofidis",
+      "RIDC-Raiffeisen vs MBH Bank 2",
+      "Erste Bank vs MNB SK 2",
+      "OTP Bank 1 vs MBH Bank 1"
+    ]
+  },
+  {
+    "nev": "11. Forduló",
+    "datum": "2026-06-17",
+    "piheno": "OTP Bank 1",
+    "meccsek": [
+      "MFB Bank vs GARANTIQA",
+      "OTP Bank 2 vs MBH Bank 1",
+      "Magyar Cofidis vs Unicredit Se",
+      "MNB SK 1 vs MBH Bank 2",
+      "K&H Bank vs Erste Bank",
+      "RIDC-Raiffeisen vs MNB SK 2"
+    ]
+  },
+  {
+    "nev": "12. Forduló",
+    "datum": "2026-09-09",
+    "piheno": "MNB SK 2",
+    "meccsek": [
+      "MBH Bank 1 vs MFB Bank",
+      "GARANTIQA vs OTP Bank 1",
+      "Erste Bank vs RIDC-Raiffeisen",
+      "MBH Bank 2 vs K&H Bank",
+      "MNB SK 1 vs Magyar Cofidis",
+      "Unicredit Se vs OTP Bank 2"
+    ]
+  },
+  {
+    "nev": "13. Forduló",
+    "datum": "2026-09-23",
+    "piheno": "RIDC-Raiffeisen",
+    "meccsek": [
+      "MFB Bank vs OTP Bank 1",
+      "MNB SK 2 vs K&H Bank",
+      "RIDC-Raiffeisen vs MNB SK 1",
+      "MBH Bank 2 vs Unicredit Se",
+      "Magyar Cofidis vs MBH Bank 1",
+      "OTP Bank 2 vs GARANTIQA"
+    ]
+  },
+  {
+    "nev": "Rájátszás - 1. Forduló (Felsőház)",
+    "datum": "2026-10-07",
+    "meccsek": [
+      "OTP Bank 1 vs OTP Bank 2",
+      "MNB SK 1 vs MNB SK 2",
+      "MBH Bank 1 vs RIDC-Raiffeisen"
+    ]
+  },
+  {
+    "nev": "Rájátszás - 1. Forduló (Alsóház)",
+    "datum": "2026-10-07",
+    "meccsek": [
+      "Erste Bank vs MBH Bank 2",
+      "K&H Bank vs Unicredit Se",
+      "Magyar Cofidis vs GARANTIQA"
+    ]
+  },
+  {
+    "nev": "Rájátszás - 2. Forduló (Felsőház)",
+    "datum": "2026-10-21",
+    "meccsek": [
+      "OTP Bank 2 vs MNB SK 1",
+      "RIDC-Raiffeisen vs OTP Bank 1",
+      "MNB SK 2 vs MBH Bank 1"
+    ]
+  },
+  {
+    "nev": "Rájátszás - 2. Forduló (Alsóház)",
+    "datum": "2026-10-21",
+    "meccsek": [
+      "MBH Bank 2 vs K&H Bank",
+      "GARANTIQA vs Erste Bank",
+      "Unicredit Se vs Magyar Cofidis"
+    ]
+  },
+  {
+    "nev": "Rájátszás - 3. Forduló (Felsőház)",
+    "datum": "2026-11-04",
+    "meccsek": [
+      "RIDC-Raiffeisen vs MNB SK 2",
+      "OTP Bank 2 vs MBH Bank 1",
+      "OTP Bank 1 vs MNB SK 1"
+    ]
+  },
+  {
+    "nev": "Rájátszás - 3. Forduló (Alsóház)",
+    "datum": "2026-11-04",
+    "meccsek": [
+      "GARANTIQA vs Unicredit Se",
+      "Magyar Cofidis vs MBH Bank 2",
+      "Erste Bank vs K&H Bank"
+    ]
+  },
+  {
+    "nev": "Rájátszás - 4. Forduló (Felsőház)",
+    "datum": "2026-11-18",
+    "meccsek": [
+      "MNB SK 2 vs OTP Bank 1",
+      "RIDC-Raiffeisen vs OTP Bank 2",
+      "MBH Bank 1 vs MNB SK 1"
+    ]
+  },
+  {
+    "nev": "Rájátszás - 4. Forduló (Alsóház)",
+    "datum": "2026-11-18",
+    "meccsek": [
+      "Unicredit Se vs Erste Bank",
+      "MBH Bank 2 vs GARANTIQA",
+      "K&H Bank vs Magyar Cofidis"
+    ]
+  },
+  {
+    "nev": "Rájátszás - 5. Forduló (Felsőház)",
+    "datum": "2026-12-02",
+    "meccsek": [
+      "OTP Bank 2 vs MNB SK 2",
+      "MNB SK 1 vs RIDC-Raiffeisen",
+      "MBH Bank 1 vs OTP Bank 1"
+    ]
+  },
+  {
+    "nev": "Rájátszás - 5. Forduló (Alsóház)",
+    "datum": "2026-12-02",
+    "meccsek": [
+      "MBH Bank 2 vs Unicredit Se",
+      "GARANTIQA vs K&H Bank",
+      "Magyar Cofidis vs Erste Bank"
+    ]
+  }
+]
