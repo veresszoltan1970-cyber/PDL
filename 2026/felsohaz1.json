@@ -1,0 +1,164 @@
+[
+  {
+    "datum": "2026.10.07",
+    "hazai_csapat": "MBH 1",
+    "vendeg_csapat": "Raiffeisen",
+    "papir_vegeredmeny": "6 : 6",
+    "helyszin": "KATAKOMBA",
+    "tipus": "rajatszas_felso",
+    "statisztikak": [
+      {
+        "nev": "Csibor László",
+        "csapat": "MBH 1",
+        "d_140": 1,
+        "d_170": 0,
+        "co_70": 1
+      },
+      {
+        "nev": "Kamarás Róbert",
+        "csapat": "MBH 1",
+        "d_140": 1,
+        "d_170": 0,
+        "do_100": 1
+      },
+      {
+        "nev": "Szabó Katalin",
+        "csapat": "MBH 1",
+        "d_140": 0,
+        "d_170": 0,
+        "co_70": 0
+      },
+      {
+        "nev": "Pető Péter",
+        "csapat": "Raiffeisen",
+        "d_140": 0,
+        "d_170": 0,
+        "do_100": 2
+      },
+      {
+        "nev": "Szabó Gergely",
+        "csapat": "Raiffeisen",
+        "d_140": 1,
+        "d_170": 0,
+        "co_70": 0
+      },
+      {
+        "nev": "Balázs Tünde",
+        "csapat": "Raiffeisen",
+        "d_140": 0,
+        "d_170": 0,
+        "co_70": 0
+      }
+    ],
+    "meccsek": [
+      {
+        "szam": 1,
+        "tipus": "egyeni",
+        "hazai": "Csibor László",
+        "vendeg": "Szabó Gergely",
+        "eredmeny": "2:0",
+        "h_atlag": 46.97,
+        "v_atlag": 45.62
+      },
+      {
+        "szam": 2,
+        "tipus": "egyeni",
+        "hazai": "Kamarás Róbert",
+        "vendeg": "Pető Péter",
+        "eredmeny": "1:2",
+        "h_atlag": 57.8,
+        "v_atlag": 66
+      },
+      {
+        "szam": 3,
+        "tipus": "egyeni",
+        "hazai": "Szabó Katalin",
+        "vendeg": "Balázs Tünde",
+        "eredmeny": "2:0",
+        "h_atlag": 42.2,
+        "v_atlag": 38.4
+      },
+      {
+        "szam": 4,
+        "tipus": "paros",
+        "hazai": "Csibor László - Kamarás Róbert",
+        "vendeg": "Pető Péter - Szabó Gergely",
+        "eredmeny": "2:1",
+        "h_atlag": 0,
+        "v_atlag": 0
+      },
+      {
+        "szam": 5,
+        "tipus": "egyeni",
+        "hazai": "Kamarás Róbert",
+        "vendeg": "Balázs Tünde",
+        "eredmeny": "2:0",
+        "h_atlag": 41,
+        "v_atlag": 29
+      },
+      {
+        "szam": 6,
+        "tipus": "egyeni",
+        "hazai": "Szabó Katalin",
+        "vendeg": "Szabó Gergely",
+        "eredmeny": "1:2",
+        "h_atlag": 32.81,
+        "v_atlag": 41.53
+      },
+      {
+        "szam": 7,
+        "tipus": "egyeni",
+        "hazai": "Csibor László",
+        "vendeg": "Pető Péter",
+        "eredmeny": "0:2",
+        "h_atlag": 57.02,
+        "v_atlag": 65.35
+      },
+      {
+        "szam": 8,
+        "tipus": "paros",
+        "hazai": "Kamarás Róbert - Szabó Katalin",
+        "vendeg": "Szabó Gergely - Balázs Tünde",
+        "eredmeny": "0:2",
+        "h_atlag": 0,
+        "v_atlag": 0
+      },
+      {
+        "szam": 9,
+        "tipus": "egyeni",
+        "hazai": "Csibor László",
+        "vendeg": "Balázs Tünde",
+        "eredmeny": "2:0",
+        "h_atlag": 46.97,
+        "v_atlag": 33.9
+      },
+      {
+        "szam": 10,
+        "tipus": "egyeni",
+        "hazai": "Szabó Katalin",
+        "vendeg": "Pető Péter",
+        "eredmeny": "2:1",
+        "h_atlag": 44.7,
+        "v_atlag": 55.71
+      },
+      {
+        "szam": 11,
+        "tipus": "egyeni",
+        "hazai": "Kamarás Róbert",
+        "vendeg": "Szabó Gergely",
+        "eredmeny": "0:2",
+        "h_atlag": 45.37,
+        "v_atlag": 51.83
+      },
+      {
+        "szam": 12,
+        "tipus": "paros",
+        "hazai": "Csibor László - Szabó Katalin",
+        "vendeg": "Pető Péter - Balázs Tünde",
+        "eredmeny": "1:2",
+        "h_atlag": 0,
+        "v_atlag": 0
+      }
+    ]
+  }
+]
