@@ -100,73 +100,73 @@
   {
     "tipus": "rajatszas_felso",
     "fordulo": 1,
-    "nev": "Rájátszás 1. kör - Felsőház",
+    "nev": "Rájátszás 1.",
     "url": "https://raw.githubusercontent.com/veresszoltan1970-cyber/PDL/main/2026/felsohaz1.json"
   },
   {
     "tipus": "rajatszas_felso",
     "fordulo": 2,
-    "nev": "Rájátszás 2. kör - Felsőház",
+    "nev": "Rájátszás 2.",
     "url": "https://gist.githubusercontent.com/veresszoltan1970-cyber/IDE_JON_A_2_FELSO_RAW_LINKJE/raw"
   },
   {
     "tipus": "rajatszas_felso",
     "fordulo": 3,
-    "nev": "Rájátszás 3. kör - Felsőház",
+    "nev": "Rájátszás 3.",
     "url": "https://gist.githubusercontent.com/veresszoltan1970-cyber/IDE_JON_A_3_FELSO_RAW_LINKJE/raw"
   },
   {
     "tipus": "rajatszas_felso",
     "fordulo": 4,
-    "nev": "Rájátszás 4. kör - Felsőház",
+    "nev": "Rájátszás 4.",
     "url": "https://gist.githubusercontent.com/veresszoltan1970-cyber/IDE_JON_A_4_FELSO_RAW_LINKJE/raw"
   },
   {
     "tipus": "rajatszas_felso",
     "fordulo": 5,
-    "nev": "Rájátszás 5. kör - Felsőház",
+    "nev": "Rájátszás 5.",
     "url": "https://gist.githubusercontent.com/veresszoltan1970-cyber/IDE_JON_A_5_FELSO_RAW_LINKJE/raw"
   },
   {
     "tipus": "rajatszas_felso",
     "fordulo": 6,
-    "nev": "Rájátszás 6. kör - Felsőház",
+    "nev": "Rájátszás 6.",
     "url": "https://gist.githubusercontent.com/veresszoltan1970-cyber/IDE_JON_A_6_FELSO_RAW_LINKJE/raw"
   },
   {
     "tipus": "rajatszas_also",
     "fordulo": 1,
-    "nev": "Rájátszás 1. kör - Alsóház",
+    "nev": "Rájátszás 1.",
     "url": "https://raw.githubusercontent.com/veresszoltan1970-cyber/PDL/main/2026/alsohaz1.json"
   },
   {
     "tipus": "rajatszas_also",
     "fordulo": 2,
-    "nev": "Rájátszás 2. kör - Alsóház",
+    "nev": "Rájátszás 2.",
     "url": "https://gist.githubusercontent.com/veresszoltan1970-cyber/IDE_JON_A_2_ALSO_RAW_LINKJE/raw"
   },
   {
     "tipus": "rajatszas_also",
     "fordulo": 3,
-    "nev": "Rájátszás 3. kör - Alsóház",
+    "nev": "Rájátszás 3.",
     "url": "https://gist.githubusercontent.com/veresszoltan1970-cyber/IDE_JON_A_3_ALSO_RAW_LINKJE/raw"
   },
   {
     "tipus": "rajatszas_also",
     "fordulo": 4,
-    "nev": "Rájátszás 4. kör - Alsóház",
+    "nev": "Rájátszás 4.",
     "url": "https://gist.githubusercontent.com/veresszoltan1970-cyber/IDE_JON_A_4_ALSO_RAW_LINKJE/raw"
   },
   {
     "tipus": "rajatszas_also",
     "fordulo": 5,
-    "nev": "Rájátszás 5. kör - Alsóház",
+    "nev": "Rájátszás 5.",
     "url": "https://gist.githubusercontent.com/veresszoltan1970-cyber/IDE_JON_A_5_ALSO_RAW_LINKJE/raw"
   },
   {
     "tipus": "rajatszas_also",
     "fordulo": 6,
-    "nev": "Rájátszás 6. kör - Alsóházr",
+    "nev": "Rájátszás 6.",
     "url": "https://gist.githubusercontent.com/veresszoltan1970-cyber/IDE_JON_A_6_ALSO_RAW_LINKJE/raw"
   }
 ]
