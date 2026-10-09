@@ -36,7 +36,7 @@
         "co_70": 0
       },
       {
-        "nev": "Beregi Gabrielle",
+        "nev": "Beregi Gabriella",
         "csapat": "GARANTIQA",
         "d_140": 0,
         "d_170": 0,
@@ -55,7 +55,7 @@
         "szam": 1,
         "tipus": "egyeni",
         "hazai": "Czudar Farkas",
-        "vendeg": "Beregi Gabrielle",
+        "vendeg": "Beregi Gabriella",
         "eredmeny": "2:0",
         "h_atlag": 42.34,
         "v_atlag": 33.08
@@ -64,7 +64,7 @@
         "szam": 2,
         "tipus": "egyeni",
         "hazai": "Kerékgyártó József",
-        "vendeg": "Nagy Sándor Matyi",
+        "vendeg": "Nagy Sándor Mátyás",
         "eredmeny": "2:0",
         "h_atlag": 54.1,
         "v_atlag": 39.05
@@ -82,7 +82,7 @@
         "szam": 4,
         "tipus": "paros",
         "hazai": "Czudar Farkas - Kerékgyártó József",
-        "vendeg": "Nagy Sándor Matyi - Beregi Gabrielle",
+        "vendeg": "Nagy Sándor Mátyás - Beregi Gabriella",
         "eredmeny": "2:0",
         "h_atlag": 0,
         "v_atlag": 0
@@ -100,7 +100,7 @@
         "szam": 6,
         "tipus": "egyeni",
         "hazai": "Németh Anikó",
-        "vendeg": "Beregi Gabrielle",
+        "vendeg": "Beregi Gabriella",
         "eredmeny": "2:0",
         "h_atlag": 31.25,
         "v_atlag": 28.82
@@ -109,7 +109,7 @@
         "szam": 7,
         "tipus": "egyeni",
         "hazai": "Czudar Farkas",
-        "vendeg": "Nagy Sándor Matyi",
+        "vendeg": "Nagy Sándor Mátyás",
         "eredmeny": "2:0",
         "h_atlag": 32.67,
         "v_atlag": 31.67
@@ -118,7 +118,7 @@
         "szam": 8,
         "tipus": "paros",
         "hazai": "Kerékgyártó József - Németh Anikó",
-        "vendeg": "Beregi Gabrielle - Kovács István",
+        "vendeg": "Beregi Gabriella - Kovács István",
         "eredmeny": "2:1",
         "h_atlag": 0,
         "v_atlag": 0
@@ -136,7 +136,7 @@
         "szam": 10,
         "tipus": "egyeni",
         "hazai": "Németh Anikó",
-        "vendeg": "Nagy Sándor Matyi",
+        "vendeg": "Nagy Sándor Mátyás",
         "eredmeny": "2:0",
         "h_atlag": 39,
         "v_atlag": 38.81
@@ -145,7 +145,7 @@
         "szam": 11,
         "tipus": "egyeni",
         "hazai": "Kerékgyártó József",
-        "vendeg": "Beregi Gabrielle",
+        "vendeg": "Beregi Gabriella",
         "eredmeny": "2:0",
         "h_atlag": 43.57,
         "v_atlag": 33.51
@@ -154,7 +154,7 @@
         "szam": 12,
         "tipus": "paros",
         "hazai": "Czudar Farkas - Németh Anikó",
-        "vendeg": "Nagy Sándor Matyi - Kovács István",
+        "vendeg": "Nagy Sándor Mátyás - Kovács István",
         "eredmeny": "2:0",
         "h_atlag": 0,
         "v_atlag": 0
