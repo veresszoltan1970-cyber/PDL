@@ -160,5 +160,167 @@
         "v_atlag": 0
       }
     ]
+  },
+  {
+    "datum": "2026.10.14",
+    "hazai_csapat": "OTP 1",
+    "vendeg_csapat": "OTP 2",
+    "papir_vegeredmeny": "7 : 5",
+    "helyszin": "KATAKOMBA",
+    "tipus": "rajatszas_felso",
+    "statisztikak": [
+      {
+        "nev": "Bakondi Milán",
+        "csapat": "OTP 1",
+        "d_140": 1,
+        "d_170": 1,
+        "co_70": 0
+      },
+      {
+        "nev": "Asztalán Teréz",
+        "csapat": "OTP 1",
+        "d_140": 0,
+        "d_170": 0,
+        "co_70": 0
+      },
+      {
+        "nev": "Sipos Bálint",
+        "csapat": "OTP 1",
+        "d_140": 1,
+        "d_170": 0,
+        "co_70": 0
+      },
+      {
+        "nev": "Kozlok Krisztián",
+        "csapat": "OTP 2",
+        "d_140": 3,
+        "d_170": 0,
+        "co_70": 0
+      },
+      {
+        "nev": "Benkő Lajos",
+        "csapat": "OTP 2",
+        "d_140": 0,
+        "d_170": 0,
+        "co_70": 1
+      },
+      {
+        "nev": "Bárdos Boglárka",
+        "csapat": "OTP 2",
+        "d_140": 0,
+        "d_170": 0,
+        "co_70": 0
+      }
+    ],
+    "meccsek": [
+      {
+        "szam": 1,
+        "tipus": "egyeni",
+        "hazai": "Bakondi Milán",
+        "vendeg": "Benkő Lajos",
+        "eredmeny": "0:2",
+        "h_atlag": 53.22,
+        "v_atlag": 55.67
+      },
+      {
+        "szam": 2,
+        "tipus": "egyeni",
+        "hazai": "Asztalán Teréz",
+        "vendeg": "Kozlok Krisztián",
+        "eredmeny": "0:2",
+        "h_atlag": 39.88,
+        "v_atlag": 61.35
+      },
+      {
+        "szam": 3,
+        "tipus": "egyeni",
+        "hazai": "Sipos Bálint",
+        "vendeg": "Bárdos Boglárka",
+        "eredmeny": "2:0",
+        "h_atlag": 63.96,
+        "v_atlag": 33
+      },
+      {
+        "szam": 4,
+        "tipus": "paros",
+        "hazai": "Bakondi Milán - Asztalán Teréz",
+        "vendeg": "Kozlok Krisztián - Benkő Lajos",
+        "eredmeny": "1:2",
+        "h_atlag": 0,
+        "v_atlag": 0
+      },
+      {
+        "szam": 5,
+        "tipus": "egyeni",
+        "hazai": "Asztalán Teréz",
+        "vendeg": "Bárdos Boglárka",
+        "eredmeny": "1:2",
+        "h_atlag": 44.4,
+        "v_atlag": 44.34
+      },
+      {
+        "szam": 6,
+        "tipus": "egyeni",
+        "hazai": "Sipos Bálint",
+        "vendeg": "Benkő Lajos",
+        "eredmeny": "2:0",
+        "h_atlag": 43.57,
+        "v_atlag": 41.09
+      },
+      {
+        "szam": 7,
+        "tipus": "egyeni",
+        "hazai": "Bakondi Milán",
+        "vendeg": "Kozlok Krisztián",
+        "eredmeny": "2:0",
+        "h_atlag": 58.94,
+        "v_atlag": 57.53
+      },
+      {
+        "szam": 8,
+        "tipus": "paros",
+        "hazai": "Asztalán Teréz - Sipos Bálint",
+        "vendeg": "Benkő Lajos - Bárdos Boglárka",
+        "eredmeny": "2:1",
+        "h_atlag": 0,
+        "v_atlag": 0
+      },
+      {
+        "szam": 9,
+        "tipus": "egyeni",
+        "hazai": "Bakondi Milán",
+        "vendeg": "Bárdos Boglárka",
+        "eredmeny": "2:0",
+        "h_atlag": 45.5,
+        "v_atlag": 35.1
+      },
+      {
+        "szam": 10,
+        "tipus": "egyeni",
+        "hazai": "Sipos Bálint",
+        "vendeg": "Kozlok Krisztián",
+        "eredmeny": "2:1",
+        "h_atlag": 41.38,
+        "v_atlag": 46.24
+      },
+      {
+        "szam": 11,
+        "tipus": "egyeni",
+        "hazai": "Asztalán Teréz",
+        "vendeg": "Benkő Lajos",
+        "eredmeny": "0:2",
+        "h_atlag": 33.52,
+        "v_atlag": 44.21
+      },
+      {
+        "szam": 12,
+        "tipus": "paros",
+        "hazai": "Bakondi Milán - Sipos Bálint",
+        "vendeg": "Kozlok Krisztián - Bárdos Boglárka",
+        "eredmeny": "2:0",
+        "h_atlag": 0,
+        "v_atlag": 0
+      }
+    ]
   }
 ]
