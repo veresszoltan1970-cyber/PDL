@@ -162,6 +162,175 @@
     ]
   },
   {
+    "datum": "2026.10.07",
+    "hazai_csapat": "MNB SK 1",
+    "vendeg_csapat": "MNB SK 2",
+    "papir_vegeredmeny": "11 : 1",
+    "helyszin": "KATAKOMBA",
+    "tipus": "rajatszas_felso",
+    "statisztikak": [
+      {
+        "nev": "Tengely Veronika",
+        "csapat": "MNB SK 1",
+        "d_140": 1,
+        "d_170": 0,
+        "co_70": 0
+      },
+{
+        "nev": "Nágel Balázs",
+        "csapat": "MNB SK 1",
+        "d_140": 1,
+        "d_170": 0,
+        "co_70": 0
+      },
+{
+        "nev": "Csjernyik István",
+        "csapat": "MNB SK 1",
+        "d_140": 0,
+        "d_170": 0,
+        "co_70": 0
+      },
+      {
+        "nev": "Katona József",
+        "csapat": "MNB SK 1",
+        "d_140": 1,
+        "d_170": 0,
+        "co_70": 1
+      },
+      {
+        "nev": "Gyarmati Adrienne",
+        "csapat": "MNB SK 2",
+        "d_140": 0,
+        "d_170": 0,
+        "co_70": 0
+      },
+{
+        "nev": "Székely Viktor",
+        "csapat": "MNB SK 2",
+        "d_140": 2,
+        "d_170": 0,
+        "co_70": 0
+      },
+      {
+        "nev": "Kovács Gergő",
+        "csapat": "MNB SK 2",
+        "d_140": 2,
+        "d_170": 0,
+        "co_70": 0
+      }
+    ],
+    "meccsek": [
+      {
+        "szam": 1,
+        "tipus": "egyeni",
+        "hazai": "Tengely Veronika",
+        "vendeg": "Székely Viktor",
+        "eredmeny": "2:1",
+        "h_atlag": 35.26,
+        "v_atlag": 40.4
+      },
+      {
+        "szam": 2,
+        "tipus": "egyeni",
+        "hazai": "Nágel Balázs",
+        "vendeg": "Gyarmati Adrienne",
+        "eredmeny": "2:1",
+        "h_atlag": 37.7,
+        "v_atlag": 28.28
+      },
+      {
+        "szam": 3,
+        "tipus": "egyeni",
+        "hazai": "Csjernyik István",
+        "vendeg": "Kovács Gergő",
+        "eredmeny": "2:0",
+        "h_atlag": 41.2,
+        "v_atlag": 37.2
+      },
+      {
+        "szam": 4,
+        "tipus": "paros",
+        "hazai": "Tengely Veronika - Nágel Balázs",
+        "vendeg": "Gyarmati Adrienne - Székely Viktor",
+        "eredmeny": "0:2",
+        "h_atlag": 0,
+        "v_atlag": 0
+      },
+      {
+        "szam": 5,
+        "tipus": "egyeni",
+        "hazai": "Katona József",
+        "vendeg": "Kovács Gergő",
+        "eredmeny": "2:1",
+        "h_atlag": 40.2,
+        "v_atlag": 43.96
+      },
+      {
+        "szam": 6,
+        "tipus": "egyeni",
+        "hazai": "Csjernyik István",
+        "vendeg": "Székely Viktor",
+        "eredmeny": "2:0",
+        "h_atlag": 53.7,
+        "v_atlag": 49
+      },
+      {
+        "szam": 7,
+        "tipus": "egyeni",
+        "hazai": "Tengely Veronika",
+        "vendeg": "Gyarmati Adrienne",
+        "eredmeny": "2:0",
+        "h_atlag": 35.31,
+        "v_atlag": 27.91
+      },
+      {
+        "szam": 8,
+        "tipus": "paros",
+        "hazai": "Katona József - Csjernyik István",
+        "vendeg": "Székely Viktor - Kovács Gergő",
+        "eredmeny": "2:0",
+        "h_atlag": 0,
+        "v_atlag": 0
+      },
+      {
+        "szam": 9,
+        "tipus": "egyeni",
+        "hazai": "Tengely Veronika",
+        "vendeg": "Kovács Gergő",
+        "eredmeny": "2:0",
+        "h_atlag": 43.75,
+        "v_atlag": 47.06
+      },
+      {
+        "szam": 10,
+        "tipus": "egyeni",
+        "hazai": "Csjernyik István",
+        "vendeg": "Gyarmati Adrienne",
+        "eredmeny": "2:1",
+        "h_atlag": 54.4,
+        "v_atlag": 42.57
+      },
+      {
+        "szam": 11,
+        "tipus": "egyeni",
+        "hazai": "Katona József",
+        "vendeg": "Székely Viktor",
+        "eredmeny": "2:1",
+        "h_atlag": 41.23,
+        "v_atlag": 30.83
+      },
+      {
+        "szam": 12,
+        "tipus": "paros",
+        "hazai": "Tengely Veronika - Csjernyik István",
+        "vendeg": "Gyarmati Adrienne - Kovács Gergő",
+        "eredmeny": "2:0",
+        "h_atlag": 0,
+        "v_atlag": 0
+      }
+    ]
+  },
+  {
     "datum": "2026.10.14",
     "hazai_csapat": "OTP 1",
     "vendeg_csapat": "OTP 2",
@@ -255,8 +424,8 @@
         "hazai": "Asztalán Teréz",
         "vendeg": "Bárdos Boglárka",
         "eredmeny": "1:2",
-        "h_atlag": 40,
-        "v_atlag": 34
+        "h_atlag": 44.4,
+        "v_atlag": 44.34
       },
       {
         "szam": 6,
