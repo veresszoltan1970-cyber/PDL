@@ -5,7 +5,7 @@
     "vendeg_csapat": "COFIDIS",
     "papir_vegeredmeny": "5 :7",
     "helyszin": "KATAKOMBA",
-    "tipus": "alapszakasz",
+    "tipus": "rajatszas_also",
     "statisztikak": [
       {
         "nev": "Fülöp Ádám",
@@ -167,7 +167,7 @@
     "vendeg_csapat": "GARANTIQA",
     "papir_vegeredmeny": "9 : 3",
     "helyszin": "KATAKOMBA",
-    "tipus": "alapszakasz",
+    "tipus": "rajatszas_also",
     "statisztikak": [
       {
         "nev": "Wéber Domonkos",
@@ -336,7 +336,7 @@
     "vendeg_csapat": "ERSTE",
     "papir_vegeredmeny": "7 :5",
     "helyszin": "KATAKOMBA",
-    "tipus": "alapszakasz",
+    "tipus": "rajatszas_also",
     "statisztikak": [
       {
         "nev": "Somogyi Krisztián",
