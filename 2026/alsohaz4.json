@@ -43,7 +43,7 @@
         "co_70": 0
       },
       {
-        "nev": "Kerekgyártó József",
+        "nev": "Kerékgyártó József",
         "csapat": "COFIDIS",
         "d_140": 1,
         "d_170": 0,
@@ -73,7 +73,7 @@
         "szam": 3,
         "tipus": "egyeni",
         "hazai": "Rekop Ádám",
-        "vendeg": "Kerekgyártó József",
+        "vendeg": "Kerékgyártó József",
         "eredmeny": "1:2",
         "h_atlag": 41.8,
         "v_atlag": 45.6
@@ -91,7 +91,7 @@
         "szam": 5,
         "tipus": "egyeni",
         "hazai": "Major Veres Kata",
-        "vendeg": "Kerekgyártó József",
+        "vendeg": "Kerékgyártó József",
         "eredmeny": "0:2",
         "h_atlag": 27.56,
         "v_atlag": 37.58
@@ -118,7 +118,7 @@
         "szam": 8,
         "tipus": "paros",
         "hazai": "Major Veres Kata - Rekop Ádám",
-        "vendeg": "Németh Anikó - Kerekgyártó József",
+        "vendeg": "Németh Anikó - Kerékgyártó József",
         "eredmeny": "2:0",
         "h_atlag": 0,
         "v_atlag": 0
@@ -127,7 +127,7 @@
         "szam": 9,
         "tipus": "egyeni",
         "hazai": "Fülöp Ádám",
-        "vendeg": "Kerekgyártó József",
+        "vendeg": "Kerékgyártó József",
         "eredmeny": "2:1",
         "h_atlag": 53.36,
         "v_atlag": 58.66
@@ -154,7 +154,7 @@
         "szam": 12,
         "tipus": "paros",
         "hazai": "Fülöp Ádám - Rekop Ádám",
-        "vendeg": "Czudar Farkas - Kerekgyártó József",
+        "vendeg": "Czudar Farkas - Kerékgyártó József",
         "eredmeny": "0:2",
         "h_atlag": 0,
         "v_atlag": 0
